@@ -6,7 +6,7 @@
 
  - **git add** / mover arquivos, dar inicio ao versionamento e conhecer os primeiros comandos;
 
- - **git add *** / move tudo que está no repositório;
+ - **git add * ** / move tudo que está no repositório;
 
  - **git commit** -m/ criar commit;
 
