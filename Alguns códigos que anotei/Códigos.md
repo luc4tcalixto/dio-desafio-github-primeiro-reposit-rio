@@ -6,7 +6,7 @@
 
  - **git add** / mover arquivos, dar inicio ao versionamento e conhecer os primeiros comandos;
 
- - **git add*** / move tudo que está no repositório;
+ - **git add *** / move tudo que está no repositório;
 
  - **git commit** -m/ criar commit;
 
@@ -16,9 +16,9 @@
 
 ### Outros comandos:
 
- - dir- Lista as pastas do diretório em questão;
+ - **dir**- Lista as pastas do diretório em questão;
 
- - cd (da um espaço e cita algum repositório, como por exemplo, Windows)- possibilita navegação
+ - **cd** (da um espaço e cita algum repositório, como por exemplo, Windows)- possibilita navegação
 nas pastas, pesquisa pastas. Depois de escrever esse comando, da o comando "dir" para listar as
 pastas deste outro repositórioo;
 (Ex.: cd /; cd User; cd Windows...)
