@@ -2,7 +2,7 @@
 
 ### Comandos da Git:
 
- - **git init** / iniciar o repositório dogit;
+ - **git init** / iniciar o repositório do git;
 
  - **git add** / mover arquivos, dar inicio ao versionamento e conhecer os primeiros comandos;
 
